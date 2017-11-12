@@ -855,13 +855,13 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 				</div>
 			</div>
 			<div class="col-sm-2">
-				<span>
+				<span style="font-family: 'Alfa Slab One', cursive;">
 					<h3>Navigate</h3>
 				</span>
 				<br>
 				<br>
 				
-				<span style="font-family: 'Alfa Slab One', cursive;">
+				<span >
 					<a style="color:inherit; text-decoration:none !important" href="#">Home</a><br><br>
 					<a style="color:inherit; text-decoration:none !important"  href="#">Events</a><br><br>
 					<a style="color:inherit; text-decoration:none !important"  href="#">About</a><br><br>
@@ -871,13 +871,13 @@ Supporting.A Storm is in the air and the JU E-Cell is more than ready to fight t
 				
       </div>
       <div class="col-sm-2">
-				<span>
+				<span style="font-family: 'Alfa Slab One', cursive;">
 					<h3>Initiatives</h3>
 				</span>
 				<br>
 				<br>
 			
-				<span style="font-family: 'Alfa Slab One', cursive;">
+				<span >
 					<a style="color:inherit; text-decoration:none !important" href="#">Hult Prize</a><br><br>
 					<a style="color:inherit; text-decoration:none !important"  href="#">E-weekend</a><br><br>
 					<a style="color:inherit; text-decoration:none !important"  href="#">Startup Weekend</a><br><br>
